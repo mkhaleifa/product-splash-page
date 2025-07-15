@@ -1,9 +1,11 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+
+## 🚀 Features
+
+- Responsive layout using Flexbox
+- Beautiful typography and styling
+- File upload form to submit your photo
+- Accessible and user-friendly design
+- Styled using pure CSS (no frameworks)
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
@@ -17,3 +19,5 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+
